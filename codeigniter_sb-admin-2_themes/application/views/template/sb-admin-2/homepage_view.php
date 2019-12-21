@@ -134,16 +134,25 @@
 
 		<!-- Content Wrapper -->
 		<div id="content-wrapper" class="d-flex flex-column">
-		{page_content}
 		
-			      <!-- Footer -->
-		  <footer class="sticky-footer bg-white">
-			<div class="container my-auto">
-			  <div class="copyright text-center my-auto">
-				<span>Copyright &copy; Your Website 2019</span>
-			  </div>
+			<!-- Main Content -->
+			<div id="content">
+			
+				{top_navbar}
+				
+				{page_content}
+		
 			</div>
-		  </footer>
+			<!-- End of Main Content -->
+			
+			<!-- Footer -->
+			<footer class="sticky-footer bg-white">
+				<div class="container my-auto">
+				  <div class="copyright text-center my-auto">
+					<span>Copyright &copy; Your Website 2019</span>
+				  </div>
+				</div>
+			</footer>
 		  <!-- End of Footer -->
 		</div>
 		<!-- End of Content Wrapper -->
