@@ -26,7 +26,7 @@
 
 - codeigniter_sb-admin-2_themes
 
-![codeigniter_sb-admin-2_themes](https://1.bp.blogspot.com/-VUFTZgJ6U2I/Xf7MR-IEnsI/AAAAAAAAL2Q/-FJBZ1FZETIR65ue66xzDM0uIKPTre6rwCLcBGAsYHQ/s320/sb-admin-2.jpg
+![codeigniter_sb-admin-2_themes](https://1.bp.blogspot.com/-VUFTZgJ6U2I/Xf7MR-IEnsI/AAAAAAAAL2Q/-FJBZ1FZETIR65ue66xzDM0uIKPTre6rwCLcBGAsYHQ/s320/sb-admin-2.jpg)
 
 
 - codeigniter_stylish-portfolio_themes
